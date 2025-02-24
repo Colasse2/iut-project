@@ -1,5 +1,7 @@
 # iut-project
+Projet de filmoteque en node js et hapi qui contient des routes swagger pour la gestion des utilisateurs et des films.
 
+# Installation
 pour demarrer le projet il faut lancer la commande suivante:
 ```npm install```
 puis,
